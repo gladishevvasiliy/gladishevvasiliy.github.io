@@ -89,7 +89,7 @@ hr {
   background-color: #fff;
 }
 
-.about-event{
+.info-block{
   background-color: #eceff1;
   margin-top: -20px;
   padding-top: 20px;
@@ -113,4 +113,24 @@ hr {
 
 .social {
   margin-left:10px;
+}
+
+.ro-talk{
+  margin-bottom: 30px;
+}
+
+.block-title {
+  margin-bottom: 15px;
+}
+
+.block-header {
+  margin-bottom: 30px;
+}
+
+.btn-form {
+  margin-bottom: 30px;
+}
+
+.ro-galery {
+  margin-bottom: 20px;
 }
