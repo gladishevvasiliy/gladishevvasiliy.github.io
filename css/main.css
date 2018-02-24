@@ -1,0 +1,116 @@
+ @import url('https://fonts.googleapis.com/css?family=Lato|Noto+Sans');
+
+ body {
+   background-color:#eeeeee;
+   font-size: 16px;
+   //color: #212121;
+
+   -webkit-font-smoothing: antialiased;
+   -webkit-overflow-scrolling: touch;
+ }
+
+h1 h2 h3 h4 h5 h6 {
+  font-family: "Noto Sans";
+  font-weight: 300;
+  color: #000000;
+}
+
+p {
+  line-height: 28px;
+  margin-bottom: 25px;
+}
+
+a {
+  color: #388e3c;
+}
+
+a:hover {
+  color: #00600f;
+  text-decoration: none;
+  outline: 0;
+}
+hr {
+  display: block;
+  height: 1px;
+  border 0px;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.navbar {
+  //font-weight: 800;
+  //font-size: 14px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#headerwrap {
+  background: url(../img/headerwrap.jpeg) center top;
+  background-repeat: no-repeat;
+  background attachment: relative;
+  background-position:  center center;
+  //margin-top: -10px;
+  //padding-top: 20px;
+  min-height: 500px;
+  width: 100%;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#headerwrap p {
+  margin-top: 100px;
+  color: #fff;
+  font-size: 20px;
+  font-style: italic;
+}
+
+#headerwrap h4 {
+  color: #fff;
+}
+
+.about {
+  margin-top: 50px;
+}
+
+.events {
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #c8e6c9;
+}
+
+.schedule {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #fff;
+}
+
+.about-event{
+  background-color: #eceff1;
+  margin-top: -20px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.helpful a {
+  font-size: 18px;
+  line-height: 38px;
+}
+
+#contact {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#contact p {
+  font-size: 18px;
+  line-height: 38px;
+}
+
+.social {
+  margin-left:10px;
+}
