@@ -139,3 +139,7 @@ hr {
 .old {
   font-family: 'Izhitsa Cyrillic';
 }
+
+.no-lg-margin-bottom {
+  margin-bottom: 5px;
+}
